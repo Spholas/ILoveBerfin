@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0e5cf;
+    background-color: #f7ce7d;
     text-align: center;
     color: #333;
 }
 header {
     background-color: #ff8c94;
     padding: 20px;
-    color: white;
+    color: rgb(209, 53, 53);
 }
 section {
     margin: 20px;
